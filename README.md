@@ -1,3 +1,3 @@
 # hello-world
 Initial Repository
-This is my initial reporistory edit.
+This is my initial repository edit.
